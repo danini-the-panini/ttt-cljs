@@ -1,6 +1,6 @@
 (defproject ttt "0.1.0-SNAPSHOT"
-  :description "FIXME: write this!"
-  :url "http://example.com/FIXME"
+  :description "Tic-Tac-Tow in ClojureScript"
+  :url "http://github.com/jellymann/ttt-cljs"
 
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [org.clojure/clojurescript "0.0-2156"]
